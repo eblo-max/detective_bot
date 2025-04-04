@@ -1,8 +1,0 @@
-Metadata-Version: 2.4
-Name: detective_bot
-Version: 0.1
-Requires-Dist: python-telegram-bot
-Requires-Dist: sqlalchemy
-Requires-Dist: anthropic
-Requires-Dist: python-dotenv
-Dynamic: requires-dist
