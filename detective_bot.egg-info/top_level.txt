@@ -1,0 +1,4 @@
+bot
+database
+game
+services
